@@ -1,4 +1,4 @@
 # geo
 Google maps API usage using Python
 
-Goofing around with Google maps APIs using Python
+Coordinates module that returns Latitude and Longitude based on input given.
