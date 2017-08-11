@@ -16,7 +16,7 @@ def get_coordinates():
 	    lng = json_response['results'][0]['geometry']['location']['lng']
 
 	    print("Latitude: {}".format(lat))
-	    print("Longitude: {}".format(lon))
+	    print("Longitude: {}".format(lng))
 
 	    # Area Name
 	    formatted_address=json_response['results'][0]['formatted_address']
